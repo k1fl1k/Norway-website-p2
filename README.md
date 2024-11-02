@@ -9,7 +9,7 @@ Norway-website/
 │
 ├── index.html          # Main HTML file
 ├── styles/
-│   ├── reboot.css      # CSS reset file
+│   ├── bootstrap-reboot.css     
 │   └── style.css       # Custom CSS styling for the website
 ├── src/
 │   └── images/         # Folder for images
