@@ -49,4 +49,4 @@ Simply open `index.html` in a web browser to explore the website. The navigation
 
 ## License
 
-This project is licensed under the MIT License. [LICENSE]
+This project is licensed under the [MIT License](LICENSE).
